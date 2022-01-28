@@ -1,24 +1,3 @@
-# README
+# Twittter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Building a basic Twitter clone in Rails according to a [tutorial from WebCrunch](https://www.youtube.com/watch?v=5gUysPm64a4&t=610s&ab_channel=Web-Crunch).
